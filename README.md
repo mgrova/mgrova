@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/mgrova/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/mgrova/github-stats-transparent/output/generated/languages.svg)
+
 <!--
 **mgrova/mgrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
